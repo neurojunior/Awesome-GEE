@@ -1,4 +1,4 @@
-# Awesome Earth Engine [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Estudos Colab [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Earth Engine resources
 
